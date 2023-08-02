@@ -34,6 +34,10 @@ referensi admin dalam pembuatan program:
 - https://blog.udemy.com/hello-world-program-in-c/
 - https://medium.com/@codeforever/conditional-and-unconditional-branching-statements-in-c-9ce886fd8d39
 
-Untuk menjalankan kode C, pastikan Windows dapat mengcompile
-Tutorialnya bisa lihat disini : https://www.lokal-tutorial.my.id/2021/10/cara-setting-vs-code-agar-bisa-compile.html      
+## Jalankan Kode di Localhost
+
+Untuk menjalankan kode C, pastikan Windows dapat mengcompile C
+Tutorialnya bisa lihat disini : https://www.lokal-tutorial.my.id/2021/10/cara-setting-vs-code-agar-bisa-compile.html
+
+Untuk menjalankan kode C di Linux, bisa mengikuti tutorial disini https://vitux.com/how-to-write-and-run-a-c-program-in-linux/
 
