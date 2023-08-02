@@ -31,15 +31,5 @@ https://medium.com/@codeforever/conditional-and-unconditional-branching-statemen
 Terima kasih sudah order tugas di stacktugas.id, senang bisa membantu
 
 Untuk menjalankan kode C, pastikan Windows dapat mengcompile
-Tutorialnya bisa lihat disini : https://www.lokal-tutorial.my.id/2021/10/cara-setting-vs-code-agar-bisa-compile.html
-
-
-      _             _    _                           _     _ 
-     | |           | |  | |                         (_)   | |
-  ___| |_ __ _  ___| | _| |_ _   _  __ _  __ _ ___   _  __| |
- / __| __/ _` |/ __| |/ / __| | | |/ _` |/ _` / __| | |/ _` |
- \__ \ || (_| | (__|   <| |_| |_| | (_| | (_| \__ \_| | (_| |
- |___/\__\__,_|\___|_|\_\\__|\__,_|\__, |\__,_|___(_)_|\__,_|
-                                    __/ |                    
-                                   |___/                     
+Tutorialnya bisa lihat disini : https://www.lokal-tutorial.my.id/2021/10/cara-setting-vs-code-agar-bisa-compile.html      
 
